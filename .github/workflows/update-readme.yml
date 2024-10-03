@@ -23,7 +23,7 @@ jobs:
         pip install PyGithub
     - name: Update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         python .github/scripts/update_readme.py
     - name: Commit and push if changed
