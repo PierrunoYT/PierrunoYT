@@ -74,5 +74,10 @@ readme_content = f"""
 </p>
 """
 
+# Delete the old README if it exists
+if os.path.exists('README.md'):
+    os.remove('README.md')
+
+# Write the new README
 with open('README.md', 'w') as f:
     f.write(readme_content)
