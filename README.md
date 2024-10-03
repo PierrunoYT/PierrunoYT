@@ -12,13 +12,13 @@
 <h3 align="center">🌟 Top Projects</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/photo-location-finder'><b>photo-location-finder</b></a><br/>This program allows the user to detect landmarks in an image using the Google Cloud Vision API. The program prompts the user for the image path, API key, and credentials to authenticate with the Google Cloud API.</li><li><a href='https://github.com/PierrunoYT/claude-3-artifacts'><b>claude-3-artifacts</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/awesome-ai-dev-tools'><b>awesome-ai-dev-tools</b></a><br/>A curated list of powerful and innovative development tools, including code editors, plugins, and productivity enhancers. This repository aims to be a comprehensive resource for developers looking to optimize their workflow and boost efficiency. From IDEs to command-line utilities, find the tools that will take your coding to the next level</li>
+<li><a href='https://github.com/PierrunoYT/photo-location-finder'><b>photo-location-finder</b></a><br/>This program allows the user to detect landmarks in an image using the Google Cloud Vision API. The program prompts the user for the image path, API key, and credentials to authenticate with the Google Cloud API.</li><li><a href='https://github.com/PierrunoYT/claude-3-artifacts'><b>claude-3-artifacts</b></a><br/>PierrunoYT/claude-3-artifacts: An advanced React-based interface for interacting with the Claude 3.5 Sonnet AI model. Features real-time React code rendering, dark mode, and secure API key management. Archived project with a new version under development.</li><li><a href='https://github.com/PierrunoYT/awesome-ai-dev-tools'><b>awesome-ai-dev-tools</b></a><br/>A curated list of powerful and innovative development tools, including code editors, plugins, and productivity enhancers. This repository aims to be a comprehensive resource for developers looking to optimize their workflow and boost efficiency. From IDEs to command-line utilities, find the tools that will take your coding to the next level</li>
 </ul>
 
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/MarketMind-Maestro'><b>MarketMind-Maestro</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/Open-Unit-Converter'><b>Open-Unit-Converter</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/youtube-transcriber'><b>youtube-transcriber</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/MarketMind-Maestro'><b>MarketMind-Maestro</b></a><br/>MarketMind Maestro: Advanced AI-powered marketing and sales team using OpenRouter’s Claude-3.5-sonnet model. Features multiple AI agents collaborating to create comprehensive marketing plans, sales strategies, and audience analyses. Supports multi-language output and styled Word document generation.</li><li><a href='https://github.com/PierrunoYT/Open-Unit-Converter'><b>Open-Unit-Converter</b></a><br/>Unit Converter: A comprehensive web application for converting between various units of measurement. Built with Python and Flask, it supports a wide range of unit types including length, weight, volume, temperature, and more. Features a user-friendly interface and responsive design for desktop and mobile use.</li><li><a href='https://github.com/PierrunoYT/youtube-transcriber'><b>youtube-transcriber</b></a><br/>YT2Text: YouTube Transcriber - A Python tool that downloads audio from YouTube videos and transcribes it using OpenAI’s Whisper model. Features secure API key storage, automatic audio cleanup, and easy-to-use command-line interface. Ideal for generating text transcripts from YouTube content.</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -26,6 +26,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-AI-00FFFF?style=flat-square&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
