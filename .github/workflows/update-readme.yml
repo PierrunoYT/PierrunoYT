@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '0 0 * * 0'  # Runs at 00:00 UTC every Sunday
+  push:
+    branches:
+      - main  # or your default branch name
   workflow_dispatch:
 
 jobs:
@@ -28,5 +31,4 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add -A
-        git commit -m "Update README" || exit 0
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README" && git push)
