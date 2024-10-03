@@ -8,15 +8,23 @@
 
 I'm passionate about AI, development tools, and innovative projects. Here you'll find a mix of practical utilities and curated resources.
 
-### 🌟 Featured Projects
+### 🌟 Top Starred Projects
 
 <div align="center">
 
-[![Photo Location Finder](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=photo-location-finder)](https://github.com/PierrunoYT/photo-location-finder)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=photo-location-finder)](https://github.com/PierrunoYT/photo-location-finder)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=claude-3-artifacts)](https://github.com/PierrunoYT/claude-3-artifacts)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=awesome-ai-dev-tools)](https://github.com/PierrunoYT/awesome-ai-dev-tools)
 
-[![Claude 3 Artifacts](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=claude-3-artifacts)](https://github.com/PierrunoYT/claude-3-artifacts)
+</div>
 
-[![Awesome AI Dev Tools](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=awesome-ai-dev-tools)](https://github.com/PierrunoYT/awesome-ai-dev-tools)
+### 🔥 Recent Updates
+
+<div align="center">
+
+![Recent Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=photo-location-finder)
+![Recent Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=claude-3-artifacts)
+![Recent Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=awesome-ai-dev-tools)
 
 </div>
 
