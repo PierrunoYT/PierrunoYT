@@ -14,11 +14,10 @@ I'm passionate about AI, development tools, and innovative projects. Here you'll
 - [Claude 3 Artifacts](https://github.com/PierrunoYT/claude-3-artifacts) - Explore Claude 3 AI capabilities.
 - [Awesome AI Dev Tools](https://github.com/PierrunoYT/awesome-ai-dev-tools) - Curated list of AI development tools.
 
-### 🔥 Recent Updates
+### 🎨 Flux AI Image Generation Tools
 
-- [Project Name](https://github.com/PierrunoYT/repo-name) - Brief description of recent update.
-- [Another Project](https://github.com/PierrunoYT/another-repo) - What's new in this project.
-- [Third Project](https://github.com/PierrunoYT/third-repo) - Latest developments here.
+- [FAL Flux Dev Image Generator](https://github.com/PierrunoYT/fal-flux-dev-image-generator) - Image generation tool using FAL.AI and Flux.
+- [Replicate Flux Dev Generator](https://github.com/PierrunoYT/replicate-flux-dev-generator) - Image generation tool using Replicate and Flux.
 
 ## 🛠️ Technologies & Tools
 
