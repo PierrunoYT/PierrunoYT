@@ -1,4 +1,5 @@
 import os
+import random
 from github import Github
 
 def get_repo_info(repo):
@@ -8,7 +9,12 @@ g = Github(os.environ['GITHUB_TOKEN'])
 user = g.get_user()
 
 top_repos = sorted(user.get_repos(), key=lambda r: r.stargazers_count, reverse=True)[:3]
-flux_repos = [repo for repo in user.get_repos() if 'flux' in repo.name.lower()]
+
+# Get all non-fork repositories
+all_repos = [repo for repo in user.get_repos() if not repo.fork]
+
+# Select 3 random projects
+random_projects = random.sample(all_repos, min(3, len(all_repos)))
 
 readme_content = f"""
 # 👋 Hello, I'm {user.name or user.login}
@@ -25,9 +31,9 @@ I'm passionate about AI, development tools, and innovative projects. Here you'll
 
 {''.join(get_repo_info(repo) + '\\n' for repo in top_repos)}
 
-### 🎨 Flux AI Image Generation Tools
+### 🎲 Random Weekly Showcase
 
-{''.join(get_repo_info(repo) + '\\n' for repo in flux_repos)}
+{''.join(get_repo_info(repo) + '\\n' for repo in random_projects)}
 
 ## 🛠️ Technologies & Tools
 
