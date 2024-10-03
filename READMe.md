@@ -8,25 +8,17 @@
 
 I'm passionate about AI, development tools, and innovative projects. Here you'll find a mix of practical utilities and curated resources.
 
-### 🌟 Top Starred Projects
+### 🌟 Top Projects
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=photo-location-finder)](https://github.com/PierrunoYT/photo-location-finder)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=claude-3-artifacts)](https://github.com/PierrunoYT/claude-3-artifacts)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=awesome-ai-dev-tools)](https://github.com/PierrunoYT/awesome-ai-dev-tools)
-
-</div>
+- [Photo Location Finder](https://github.com/PierrunoYT/photo-location-finder) - Extract and visualize photo locations.
+- [Claude 3 Artifacts](https://github.com/PierrunoYT/claude-3-artifacts) - Explore Claude 3 AI capabilities.
+- [Awesome AI Dev Tools](https://github.com/PierrunoYT/awesome-ai-dev-tools) - Curated list of AI development tools.
 
 ### 🔥 Recent Updates
 
-<div align="center">
-
-![Recent Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=photo-location-finder)
-![Recent Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=claude-3-artifacts)
-![Recent Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=PierrunoYT&repo=awesome-ai-dev-tools)
-
-</div>
+- [Project Name](https://github.com/PierrunoYT/repo-name) - Brief description of recent update.
+- [Another Project](https://github.com/PierrunoYT/another-repo) - What's new in this project.
+- [Third Project](https://github.com/PierrunoYT/third-repo) - Latest developments here.
 
 ## 🛠️ Technologies & Tools
 
@@ -46,4 +38,3 @@ I'm passionate about AI, development tools, and innovative projects. Here you'll
 Feel free to reach out for collaborations or just a chat about tech!
 
 [![Discord](https://img.shields.io/badge/-PierrunoYT-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/PierrunoYT)
-
