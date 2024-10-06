@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/MarketMind-Maestro'><b>MarketMind-Maestro</b></a><br/>MarketMind Maestro: Advanced AI-powered marketing and sales team using OpenRouter’s Claude-3.5-sonnet model. Features multiple AI agents collaborating to create comprehensive marketing plans, sales strategies, and audience analyses. Supports multi-language output and styled Word document generation.</li><li><a href='https://github.com/PierrunoYT/Open-Unit-Converter'><b>Open-Unit-Converter</b></a><br/>Unit Converter: A comprehensive web application for converting between various units of measurement. Built with Python and Flask, it supports a wide range of unit types including length, weight, volume, temperature, and more. Features a user-friendly interface and responsive design for desktop and mobile use.</li><li><a href='https://github.com/PierrunoYT/youtube-transcriber'><b>youtube-transcriber</b></a><br/>YT2Text: YouTube Transcriber - A Python tool that downloads audio from YouTube videos and transcribes it using OpenAI’s Whisper model. Features secure API key storage, automatic audio cleanup, and easy-to-use command-line interface. Ideal for generating text transcripts from YouTube content.</li>
+<li><a href='https://github.com/PierrunoYT/llama-image-captioner'><b>llama-image-captioner</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/Open-Emergency-Stations-Map'><b>Open-Emergency-Stations-Map</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/VeriFact-AI'><b>VeriFact-AI</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-10-03</i>
+  <i>This README is automatically updated every week. Last update: 2024-10-06</i>
 </p>
