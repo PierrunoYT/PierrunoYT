@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/llama-image-captioner'><b>llama-image-captioner</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/Open-Emergency-Stations-Map'><b>Open-Emergency-Stations-Map</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/VeriFact-AI'><b>VeriFact-AI</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/picarta-bot'><b>picarta-bot</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/PDF-Chat-AI'><b>PDF-Chat-AI</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/llama-image-captioner'><b>llama-image-captioner</b></a><br/>A Python application using OpenRouter API and Meta-Llama model to generate detailed image captions. Features a user-friendly Gradio interface for image uploads, options for short or long descriptions, and leverages the advanced Meta-Llama 3.2 90B Vision Instruct model. Easy to set up and use, with robust error handling and logging.</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-10-06</i>
+  <i>This README is automatically updated every week. Last update: 2024-10-13</i>
 </p>
