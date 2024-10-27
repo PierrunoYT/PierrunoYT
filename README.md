@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/DiscordBackupBot'><b>DiscordBackupBot</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/ai-github-issue-fixer'><b>ai-github-issue-fixer</b></a><br/>AI-powered tool for automatically generating and implementing fixes for GitHub issues. This application forks repositories, analyzes issues, proposes fixes using AI, and creates pull requests with the suggested changes.</li><li><a href='https://github.com/PierrunoYT/Open-Calculator'><b>Open-Calculator</b></a><br/>No description provided</li>
+<li><a href='https://github.com/Open-Source-Nexus/Tron'><b>Tron</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/MarketMind-Maestro'><b>MarketMind-Maestro</b></a><br/>MarketMind Maestro: Advanced AI-powered marketing and sales team using OpenRouter’s Claude-3.5-sonnet model. Features multiple AI agents collaborating to create comprehensive marketing plans, sales strategies, and audience analyses. Supports multi-language output and styled Word document generation.</li><li><a href='https://github.com/PierrunoYT/DiscordBackupBot'><b>DiscordBackupBot</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-10-20</i>
+  <i>This README is automatically updated every week. Last update: 2024-10-27</i>
 </p>
