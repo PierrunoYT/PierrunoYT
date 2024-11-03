@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/Open-Source-Nexus/Tron'><b>Tron</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/MarketMind-Maestro'><b>MarketMind-Maestro</b></a><br/>MarketMind Maestro: Advanced AI-powered marketing and sales team using OpenRouter’s Claude-3.5-sonnet model. Features multiple AI agents collaborating to create comprehensive marketing plans, sales strategies, and audience analyses. Supports multi-language output and styled Word document generation.</li><li><a href='https://github.com/PierrunoYT/DiscordBackupBot'><b>DiscordBackupBot</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/photo-location-finder-2'><b>photo-location-finder-2</b></a><br/>Image Classification using Picarta API. Python code to classify images in a folder directory using Picarta AI service, with MIT License.</li><li><a href='https://github.com/PierrunoYT/smart-flash-cards'><b>smart-flash-cards</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/VeriFact-AI'><b>VeriFact-AI</b></a><br/>AI-powered fact-checking web app using Claude Sonnet 3.5 and web search. Analyzes statements and images, detects fake news, and supports multiple languages. Features AI and web search fact-checking methods, with customizable user preferences. Built with Python and Flask.</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-10-27</i>
+  <i>This README is automatically updated every week. Last update: 2024-11-03</i>
 </p>
