@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/photo-location-finder-2'><b>photo-location-finder-2</b></a><br/>Image Classification using Picarta API. Python code to classify images in a folder directory using Picarta AI service, with MIT License.</li><li><a href='https://github.com/PierrunoYT/smart-flash-cards'><b>smart-flash-cards</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/VeriFact-AI'><b>VeriFact-AI</b></a><br/>AI-powered fact-checking web app using Claude Sonnet 3.5 and web search. Analyzes statements and images, detects fake news, and supports multiple languages. Features AI and web search fact-checking methods, with customizable user preferences. Built with Python and Flask.</li>
+<li><a href='https://github.com/PierrunoYT/IdeaForge-AI'><b>IdeaForge-AI</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/password-generator'><b>password-generator</b></a><br/>A Password Generator</li><li><a href='https://github.com/PierrunoYT/PierrunoYT'><b>PierrunoYT</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-11-03</i>
+  <i>This README is automatically updated every week. Last update: 2024-11-10</i>
 </p>
