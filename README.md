@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/ai-github-issue-fixer'><b>ai-github-issue-fixer</b></a><br/>AI-powered tool for automatically generating and implementing fixes for GitHub issues. This application forks repositories, analyzes issues, proposes fixes using AI, and creates pull requests with the suggested changes.</li><li><a href='https://github.com/PierrunoYT/Open-Calculator'><b>Open-Calculator</b></a><br/>No description provided</li><li><a href='https://github.com/Open-Source-Nexus/Tron'><b>Tron</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/IdeaForge-AI'><b>IdeaForge-AI</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/agent-forge'><b>agent-forge</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/multi-llm-agent'><b>multi-llm-agent</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-11-17</i>
+  <i>This README is automatically updated every week. Last update: 2024-11-24</i>
 </p>
