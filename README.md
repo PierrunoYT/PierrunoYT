@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/Open-Unit-Converter'><b>Open-Unit-Converter</b></a><br/>Unit Converter: A comprehensive web application for converting between various units of measurement. Built with Python and Flask, it supports a wide range of unit types including length, weight, volume, temperature, and more. Features a user-friendly interface and responsive design for desktop and mobile use.</li><li><a href='https://github.com/PierrunoYT/GitInsight'><b>GitInsight</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/browser-use-script'><b>browser-use-script</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/ai-writing-assistant'><b>ai-writing-assistant</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/IdeaForge-AI'><b>IdeaForge-AI</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/markdown-writer-pro'><b>markdown-writer-pro</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-12-01</i>
+  <i>This README is automatically updated every week. Last update: 2024-12-08</i>
 </p>
