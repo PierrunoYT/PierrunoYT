@@ -18,7 +18,7 @@
 <h3 align="center">🎲 Weekly Project Showcase</h3>
 
 <ul>
-<li><a href='https://github.com/PierrunoYT/ai-writing-assistant'><b>ai-writing-assistant</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/IdeaForge-AI'><b>IdeaForge-AI</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/markdown-writer-pro'><b>markdown-writer-pro</b></a><br/>No description provided</li>
+<li><a href='https://github.com/PierrunoYT/Open-Calculator'><b>Open-Calculator</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/YOLOv8-RealTime-Counter'><b>YOLOv8-RealTime-Counter</b></a><br/>No description provided</li><li><a href='https://github.com/PierrunoYT/github-insights-cli'><b>github-insights-cli</b></a><br/>No description provided</li>
 </ul>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>This README is automatically updated every week. Last update: 2024-12-08</i>
+  <i>This README is automatically updated every week. Last update: 2024-12-15</i>
 </p>
