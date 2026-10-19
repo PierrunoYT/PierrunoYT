@@ -29,7 +29,9 @@
 
 <a href="https://github.com/freewright-dev"><img src="https://raw.githubusercontent.com/freewright-dev/.github/main/profile/freewright-logo.png" width="60" align="left" alt="Freewright logo"/></a>
 
-I run [**Freewright**](https://github.com/freewright-dev), an organization where we build open-source desktop software together, mostly in Rust. Contributions are welcome: check the `good first issue` labels.
+I run [**Freewright**](https://github.com/freewright-dev), an organization where we build open-source desktop software together, mostly in Rust. Contributions are welcome: check the `good first issue` labels, or come say hi on our Discord.
+
+<a href="https://discord.gg/SAy3t4BvJj"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Join the Freewright Discord"/></a>
 
 <br clear="left"/>
 
