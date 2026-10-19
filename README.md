@@ -40,6 +40,7 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 | <img src="https://raw.githubusercontent.com/freewright-dev/BrowseCraft/main/assets/logo.png" width="32" alt=""> | [**BrowseCraft**](https://github.com/freewright-dev/BrowseCraft) | A small web browser with tabs, a built-in ad blocker and its own HTML/CSS rendering engine |
 | <img src="https://raw.githubusercontent.com/freewright-dev/FileCraft/main/assets/logos/icon.png" width="32" alt=""> | [**FileCraft**](https://github.com/freewright-dev/FileCraft) | Instant file search for Windows: an Everything-style app with NTFS MFT indexing |
 | <img src="https://raw.githubusercontent.com/freewright-dev/ConvertCraft/master/assets/logos/logo.png" width="32" alt=""> | [**ConvertCraft**](https://github.com/freewright-dev/ConvertCraft) | A local file converter for images, data, audio and video, with no uploads |
+| <img src="https://raw.githubusercontent.com/freewright-dev/speakcraft/main/assets/speakcraft-logo.png" width="32" alt=""> | [**SpeakCraft**](https://github.com/freewright-dev/speakcraft) | Hotkey dictation for Windows: hold a shortcut, speak, and the text is inserted into whatever app you are using |
 
 ### ⭐ Featured projects
 
@@ -49,7 +50,6 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 | [**awesome-ai-dev-tools**](https://github.com/PierrunoYT/awesome-ai-dev-tools) | A curated list of AI-powered editors, plugins and dev tools | Markdown |
 | [**Deezy**](https://github.com/PierrunoYT/Deezy) | A desktop Deezer downloader that saves MP3/FLAC with full metadata and cover art | Tauri · SvelteKit · Rust |
 | [**Patch**](https://github.com/PierrunoYT/patch) | A desktop AI coding assistant that reads, edits and tests code, and asks for your approval first | TypeScript |
-| [**rust-dictate**](https://github.com/PierrunoYT/rust-dictate) | Hotkey dictation for Windows | Rust |
 | [**EmbedShift**](https://github.com/PierrunoYT/EmbedShiftDesktop) | Converts copied X/Twitter links into ones that embed correctly in Discord | C# |
 
 <details>
