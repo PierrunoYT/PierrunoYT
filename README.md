@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>AI enthusiast from Switzerland 🇨🇭</b> who builds tools that run open models on your own machine.<br/>
-  I package new models as one-click apps and write desktop software that I actually use.
+  I package new models as one-click apps and write desktop software that I actually use.<br/>
+  Founder of <a href="https://github.com/freewright-dev"><b>Freewright</b></a>, where we build open-source software in Rust.
 </p>
 
 <p align="center">
@@ -23,6 +24,20 @@
 - 📦 **Pinokio launchers**: I've packaged **48+ AI models** (TTS, image generation, vision, translation, LLMs) as one-click installs
 - 🖥️ **Desktop apps**: small, fast tools built with Tauri, Rust and C#
 - 🎬 **Code-driven motion graphics**: lyric videos and promos rendered frame by frame on an HTML canvas
+
+### 🦀 Freewright
+
+<a href="https://github.com/freewright-dev"><img src="https://raw.githubusercontent.com/freewright-dev/.github/main/profile/freewright-logo.png" width="60" align="left" alt="Freewright logo"/></a>
+
+I run [**Freewright**](https://github.com/freewright-dev), an organization where we build open-source desktop software together, mostly in Rust. Contributions are welcome: check the `good first issue` labels.
+
+<br clear="left"/>
+
+| | Project | What it is |
+| :-: | :-- | :-- |
+| <img src="https://raw.githubusercontent.com/freewright-dev/BrowseCraft/main/assets/logo.png" width="32" alt=""> | [**BrowseCraft**](https://github.com/freewright-dev/BrowseCraft) | A small web browser with tabs, a built-in ad blocker and its own HTML/CSS rendering engine |
+| <img src="https://raw.githubusercontent.com/freewright-dev/FileCraft/main/assets/logos/icon.png" width="32" alt=""> | [**FileCraft**](https://github.com/freewright-dev/FileCraft) | Instant file search for Windows: an Everything-style app with NTFS MFT indexing |
+| <img src="https://raw.githubusercontent.com/freewright-dev/ConvertCraft/master/assets/logos/logo.png" width="32" alt=""> | [**ConvertCraft**](https://github.com/freewright-dev/ConvertCraft) | A local file converter for images, data, audio and video, with no uploads |
 
 ### ⭐ Featured projects
 
