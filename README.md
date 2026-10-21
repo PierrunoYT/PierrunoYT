@@ -37,7 +37,6 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 
 | | Project | What it is |
 | :-: | :-- | :-- |
-| <img src="https://raw.githubusercontent.com/freewright-dev/BrowseCraft/main/assets/logo.png" width="32" alt=""> | [**BrowseCraft**](https://github.com/freewright-dev/BrowseCraft) | A small web browser with tabs, a built-in ad blocker and its own HTML/CSS rendering engine |
 | <img src="https://raw.githubusercontent.com/freewright-dev/FileCraft/main/assets/logos/icon.png" width="32" alt=""> | [**FileCraft**](https://github.com/freewright-dev/FileCraft) | Instant file search for Windows: an Everything-style app with NTFS MFT indexing |
 | <img src="https://raw.githubusercontent.com/freewright-dev/ConvertCraft/master/assets/logos/logo.png" width="32" alt=""> | [**ConvertCraft**](https://github.com/freewright-dev/ConvertCraft) | A local file converter for images, data, audio and video, with no uploads |
 | <img src="https://raw.githubusercontent.com/freewright-dev/speakcraft/main/assets/speakcraft-logo.png" width="32" alt=""> | [**SpeakCraft**](https://github.com/freewright-dev/speakcraft) | Hotkey dictation for Windows: hold a shortcut, speak, and the text is inserted into whatever app you are using |
