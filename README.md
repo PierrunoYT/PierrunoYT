@@ -48,7 +48,6 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 | [**Kokoro-TTS-Local**](https://github.com/PierrunoYT/Kokoro-TTS-Local) | A local Kokoro text-to-speech setup with a web UI and automatic dependency handling | Python |
 | [**awesome-ai-dev-tools**](https://github.com/PierrunoYT/awesome-ai-dev-tools) | A curated list of AI-powered editors, plugins and dev tools | Markdown |
 | [**Deezy**](https://github.com/PierrunoYT/Deezy) | A desktop Deezer downloader that saves MP3/FLAC with full metadata and cover art | Tauri · SvelteKit · Rust |
-| [**Patch**](https://github.com/PierrunoYT/patch) | A desktop AI coding assistant that reads, edits and tests code, and asks for your approval first | TypeScript |
 | [**EmbedShift**](https://github.com/PierrunoYT/EmbedShiftDesktop) | Converts copied X/Twitter links into ones that embed correctly in Discord | C# |
 
 <details>
