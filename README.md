@@ -50,6 +50,11 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 | [**Wavekeep**](https://github.com/PierrunoYT/Wavekeep) | A desktop Deezer downloader that saves MP3/FLAC with full metadata and cover art | Tauri · SvelteKit · Rust |
 | [**EmbedShift**](https://github.com/PierrunoYT/EmbedShiftDesktop) | Converts copied X/Twitter links into ones that embed correctly in Discord | C# |
 | [**ai-fact-checker**](https://github.com/PierrunoYT/ai-fact-checker) | Verifies statements with Perplexity's Sonar models and live web search | TypeScript |
+| [**deepseek-cli**](https://github.com/PierrunoYT/deepseek-cli) | A command-line interface for interacting with DeepSeek's AI models | Python |
+| [**HiggsAudio-V2-Local**](https://github.com/PierrunoYT/HiggsAudio-V2-Local) | A local Gradio web interface for the Higgs Audio V2 text-to-speech model | Python |
+| [**Tencent-HY-MT2-Pinokio**](https://github.com/PierrunoYT/Tencent-HY-MT2-Pinokio) | A Gradio web interface for the Hunyuan HY-MT1.5 translation models, packaged for Pinokio | Python |
+| [**chatterbox-tts-pinokio**](https://github.com/PierrunoYT/chatterbox-tts-pinokio) | Text-to-speech with voice cloning using Chatterbox TTS and a Gradio interface | Python |
+| [**DramaBox-TTS-Pinokio**](https://github.com/PierrunoYT/DramaBox-TTS-Pinokio) | A 1-click Pinokio launcher for DramaBox, prompt-driven expressive TTS with voice cloning | Python |
 
 <details>
 <summary><b>🎙️ Some of my Pinokio launchers</b></summary>
