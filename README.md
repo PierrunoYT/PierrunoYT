@@ -49,6 +49,7 @@ I run [**Freewright**](https://github.com/freewright-dev), an organization where
 | [**awesome-ai-dev-tools**](https://github.com/PierrunoYT/awesome-ai-dev-tools) | A curated list of AI-powered editors, plugins and dev tools | Markdown |
 | [**Wavekeep**](https://github.com/PierrunoYT/Wavekeep) | A desktop Deezer downloader that saves MP3/FLAC with full metadata and cover art | Tauri · SvelteKit · Rust |
 | [**EmbedShift**](https://github.com/PierrunoYT/EmbedShiftDesktop) | Converts copied X/Twitter links into ones that embed correctly in Discord | C# |
+| [**ai-fact-checker**](https://github.com/PierrunoYT/ai-fact-checker) | Verifies statements with Perplexity's Sonar models and live web search | TypeScript |
 
 <details>
 <summary><b>🎙️ Some of my Pinokio launchers</b></summary>
